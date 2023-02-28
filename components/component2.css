@@ -1,0 +1,57 @@
+.component2-container {
+  display: flex;
+  position: relative;
+}
+.component2-image {
+  width: 350px;
+  height: 350px;
+  object-fit: cover;
+  flex-shrink: 0;
+  border-radius: 0px;
+}
+
+
+
+
+
+@media(max-width: 1600px) {
+  .component2-image {
+    width: 254px;
+    height: 100%;
+  }
+  .component2-root-class-name {
+    left: 78px;
+    bottom: -317px;
+    position: absolute;
+  }
+  .component2-root-class-name2 {
+    left: 77px;
+    width: 260px;
+    bottom: -663px;
+    height: var(--dl-size-size-xxlarge);
+    position: absolute;
+  }
+  .component2-root-class-name3 {
+    left: 88px;
+    bottom: -997px;
+    height: var(--dl-size-size-xxlarge);
+    position: absolute;
+  }
+  .component2-root-class-name4 {
+    left: 88px;
+    bottom: -1361px;
+    position: absolute;
+  }
+  .component2-root-class-name5 {
+    left: 88px;
+    width: 250px;
+    bottom: -1704px;
+    height: 250px;
+    position: absolute;
+  }
+}
+@media(max-width: 767px) {
+  .component2-image {
+    width: 100%;
+  }
+}

@@ -1,0 +1,2909 @@
+.gallery-card12-gallery-card {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.gallery-card12-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.gallery-card12-text {
+  align-self: flex-start;
+  margin-top: var(--dl-space-space-halfunit);
+  font-weight: 600;
+  margin-bottom: var(--dl-space-space-halfunit);
+}
+.gallery-card12-text1 {
+  color: var(--dl-color-gray-500);
+  align-self: flex-start;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width: 1600px) {
+  .gallery-card12-root-class-name {
+    top: 108px;
+    left: 162px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name1 {
+    top: 114px;
+    left: -53px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name2 {
+    top: 1224px;
+    left: 675px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name3 {
+    left: 675px;
+    width: 250px;
+    bottom: -642px;
+    height: 300px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name4 {
+    left: -64px;
+    width: 250px;
+    bottom: -995px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name5 {
+    left: 415px;
+    width: 250px;
+    bottom: -313px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name6 {
+    top: 1236px;
+    left: 400px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name7 {
+    top: 509px;
+    left: 668px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name8 {
+    left: -81px;
+    width: 250px;
+    bottom: -588px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name9 {
+    left: 162px;
+    width: 250px;
+    bottom: -630px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name10 {
+    left: 395px;
+    width: 250px;
+    bottom: -613px;
+    height: 260px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name11 {
+    top: 837px;
+    right: -108px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name12 {
+    top: 1225px;
+    right: -123px;
+    width: 250px;
+    height: 300px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name13 {
+    top: 257px;
+    right: 137px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name14 {
+    top: 1240px;
+    left: 144px;
+    width: 250px;
+    height: 260px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name15 {
+    left: -101px;
+    width: 250px;
+    bottom: -154px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name16 {
+    top: 501px;
+    right: -107px;
+    width: 250px;
+    height: 300px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name17 {
+    top: -146px;
+    left: -81px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name18 {
+    left: -80px;
+    width: 250px;
+    bottom: 285px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name19 {
+    left: 171px;
+    width: 250px;
+    bottom: 266px;
+    height: 300px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name20 {
+    top: 1611px;
+    left: 421px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name21 {
+    right: 112px;
+    width: 250px;
+    bottom: -115px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name22 {
+    right: -110px;
+    width: 230px;
+    bottom: 280px;
+    height: 280px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name23 {
+    left: 439px;
+    width: 250px;
+    bottom: -154px;
+    height: 300px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name24 {
+    left: 171px;
+    width: 250px;
+    bottom: -150px;
+    height: 300px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name25 {
+    right: -135px;
+    width: 250px;
+    bottom: -136px;
+    height: 300px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name26 {
+    left: 678px;
+    width: 250px;
+    bottom: 242px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name27 {
+    left: -73px;
+    width: 250px;
+    bottom: -1356px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name28 {
+    top: 303px;
+    left: 138px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name29 {
+    left: 427px;
+    width: 250px;
+    bottom: -1372px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name30 {
+    left: 687px;
+    width: 250px;
+    bottom: -1372px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name31 {
+    right: -102px;
+    width: 250px;
+    bottom: 256px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name32 {
+    left: -142px;
+    width: 250px;
+    bottom: -1793px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name33 {
+    top: 237px;
+    right: -135px;
+    width: 250px;
+    height: 300px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name34 {
+    left: 154px;
+    width: 250px;
+    bottom: -1793px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name35 {
+    left: 179px;
+    width: 250px;
+    bottom: -1366px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name36 {
+    left: -81px;
+    width: 250px;
+    bottom: -1800px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name37 {
+    left: 167px;
+    width: 250px;
+    bottom: -1806px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name38 {
+    left: 439px;
+    width: 250px;
+    bottom: -1800px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name39 {
+    right: 128px;
+    width: 250px;
+    bottom: -1794px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name40 {
+    top: 639px;
+    left: 470px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name41 {
+    right: -128px;
+    width: 250px;
+    bottom: -1792px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name42 {
+    left: -89px;
+    width: 250px;
+    bottom: -2196px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name43 {
+    left: -81px;
+    width: 250px;
+    bottom: -392px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name44 {
+    left: 167px;
+    width: 250px;
+    bottom: -2193px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name45 {
+    left: 206px;
+    width: 250px;
+    bottom: -406px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name46 {
+    left: -130px;
+    width: 250px;
+    bottom: -1457px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name47 {
+    left: 150px;
+    width: 250px;
+    bottom: -1457px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name48 {
+    top: -109px;
+    left: 455px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name49 {
+    left: 430px;
+    width: 250px;
+    bottom: -1793px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name50 {
+    left: 426px;
+    width: 250px;
+    bottom: -1457px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name51 {
+    right: 123px;
+    width: 250px;
+    bottom: -1457px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name52 {
+    right: -145px;
+    width: 250px;
+    bottom: -1457px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name53 {
+    right: 115px;
+    width: 250px;
+    bottom: -1793px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name54 {
+    left: -126px;
+    width: 250px;
+    bottom: -2665px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name55 {
+    left: 146px;
+    width: 250px;
+    bottom: -2665px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name56 {
+    left: 422px;
+    width: 250px;
+    bottom: -2665px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name57 {
+    left: 438px;
+    width: 250px;
+    bottom: -2669px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name58 {
+    right: 115px;
+    width: 250px;
+    bottom: -2665px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name59 {
+    right: -149px;
+    width: 250px;
+    bottom: -2665px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name60 {
+    left: -130px;
+    width: 250px;
+    bottom: -2957px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name61 {
+    left: 150px;
+    width: 250px;
+    bottom: -2957px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name62 {
+    left: 426px;
+    width: 250px;
+    bottom: -2957px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name63 {
+    left: -126px;
+    width: 250px;
+    bottom: -3781px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name64 {
+    left: 422px;
+    width: 250px;
+    bottom: -3777px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name65 {
+    left: 146px;
+    width: 250px;
+    bottom: -3777px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name66 {
+    right: 123px;
+    width: 250px;
+    bottom: -3777px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name67 {
+    right: -145px;
+    width: 250px;
+    bottom: -3773px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name68 {
+    right: 123px;
+    width: 250px;
+    bottom: -3777px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name69 {
+    left: 146px;
+    width: 250px;
+    bottom: -3777px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name70 {
+    left: -126px;
+    width: 250px;
+    bottom: -4089px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name71 {
+    left: 142px;
+    width: 250px;
+    bottom: -4105px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name72 {
+    left: 426px;
+    width: 250px;
+    bottom: -4085px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name73 {
+    right: 111px;
+    width: 250px;
+    bottom: -4081px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name74 {
+    left: -126px;
+    width: 250px;
+    bottom: -4941px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name75 {
+    left: 142px;
+    width: 250px;
+    bottom: -4941px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name76 {
+    right: 411px;
+    width: 250px;
+    bottom: -4941px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name77 {
+    left: 670px;
+    width: 250px;
+    bottom: -4945px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name78 {
+    right: -113px;
+    width: 250px;
+    bottom: -4941px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name79 {
+    left: -134px;
+    width: 250px;
+    bottom: -5237px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name80 {
+    left: 134px;
+    width: 250px;
+    bottom: -5237px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name81 {
+    left: 418px;
+    width: 250px;
+    bottom: -5237px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name82 {
+    left: 438px;
+    width: 250px;
+    bottom: -2669px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name83 {
+    right: 123px;
+    width: 250px;
+    bottom: -3777px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name84 {
+    left: 146px;
+    width: 250px;
+    bottom: -3777px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name85 {
+    top: 257px;
+    right: 137px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name86 {
+    top: 237px;
+    right: -135px;
+    width: 250px;
+    height: 300px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name87 {
+    top: 639px;
+    left: 470px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name88 {
+    left: -130px;
+    width: 250px;
+    bottom: -1457px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name89 {
+    left: 422px;
+    width: 250px;
+    bottom: -2665px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name90 {
+    right: 115px;
+    width: 250px;
+    bottom: -2665px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name91 {
+    right: -149px;
+    width: 250px;
+    bottom: -2665px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name92 {
+    left: 146px;
+    width: 250px;
+    bottom: -2665px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name93 {
+    left: -126px;
+    width: 250px;
+    bottom: -2665px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name94 {
+    left: 438px;
+    width: 250px;
+    bottom: -2669px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name95 {
+    right: 123px;
+    width: 250px;
+    bottom: -3777px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name96 {
+    left: -130px;
+    width: 250px;
+    bottom: -2957px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name97 {
+    left: -126px;
+    width: 250px;
+    bottom: -3781px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name98 {
+    left: -126px;
+    width: 250px;
+    bottom: -4941px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name99 {
+    right: 411px;
+    width: 250px;
+    bottom: -4941px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name100 {
+    left: 670px;
+    width: 250px;
+    bottom: -4945px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name101 {
+    right: -113px;
+    width: 250px;
+    bottom: -4941px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name102 {
+    left: 418px;
+    width: 250px;
+    bottom: -5237px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name103 {
+    left: 134px;
+    width: 250px;
+    bottom: -5237px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name104 {
+    left: -134px;
+    width: 250px;
+    bottom: -5237px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name105 {
+    left: 142px;
+    width: 250px;
+    bottom: -4941px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name106 {
+    left: -126px;
+    width: 250px;
+    bottom: -4089px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name107 {
+    left: 142px;
+    width: 250px;
+    bottom: -4105px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name108 {
+    left: 426px;
+    width: 250px;
+    bottom: -4085px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name109 {
+    right: 111px;
+    width: 250px;
+    bottom: -4081px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name110 {
+    left: 422px;
+    width: 250px;
+    bottom: -3777px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name111 {
+    left: 146px;
+    width: 250px;
+    bottom: -3777px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name112 {
+    right: 123px;
+    width: 250px;
+    bottom: -3777px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name113 {
+    right: -145px;
+    width: 250px;
+    bottom: -3773px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name114 {
+    left: -142px;
+    width: 250px;
+    bottom: -1793px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name115 {
+    left: 146px;
+    width: 250px;
+    bottom: -3777px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name116 {
+    top: 257px;
+    right: 119px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name117 {
+    left: 154px;
+    width: 250px;
+    bottom: -1793px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name118 {
+    left: 150px;
+    width: 250px;
+    bottom: -1457px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name119 {
+    right: -145px;
+    width: 250px;
+    bottom: -1457px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name120 {
+    right: 123px;
+    width: 250px;
+    bottom: -1457px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name121 {
+    left: 426px;
+    width: 250px;
+    bottom: -1457px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name122 {
+    top: 303px;
+    left: 138px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name123 {
+    right: -102px;
+    width: 250px;
+    bottom: 256px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name124 {
+    top: -146px;
+    left: -81px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name125 {
+    left: -73px;
+    width: 250px;
+    bottom: -1356px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name126 {
+    left: -81px;
+    width: 250px;
+    bottom: -1800px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name127 {
+    left: 439px;
+    width: 250px;
+    bottom: -1800px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name128 {
+    right: -128px;
+    width: 250px;
+    bottom: -1792px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name129 {
+    left: 167px;
+    width: 250px;
+    bottom: -2193px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name130 {
+    left: -89px;
+    width: 250px;
+    bottom: -2196px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name131 {
+    right: 128px;
+    width: 250px;
+    bottom: -1794px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name132 {
+    left: 167px;
+    width: 250px;
+    bottom: -1806px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name133 {
+    left: 179px;
+    width: 250px;
+    bottom: -1366px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name134 {
+    left: 427px;
+    width: 250px;
+    bottom: -1372px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name135 {
+    left: 687px;
+    width: 250px;
+    bottom: -1372px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name136 {
+    left: -81px;
+    width: 250px;
+    bottom: -392px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name137 {
+    left: 206px;
+    width: 250px;
+    bottom: -406px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name138 {
+    top: -109px;
+    left: 455px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name139 {
+    top: 269px;
+    right: -129px;
+    width: 250px;
+    height: 300px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name140 {
+    top: 671px;
+    left: 430px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name141 {
+    left: -122px;
+    width: 250px;
+    bottom: -1613px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name142 {
+    left: 430px;
+    width: 250px;
+    bottom: -2689px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name143 {
+    right: 113px;
+    width: 250px;
+    bottom: -2689px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name144 {
+    right: -147px;
+    width: 250px;
+    bottom: -2687px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name145 {
+    left: 146px;
+    width: 250px;
+    bottom: -2665px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name146 {
+    left: -126px;
+    width: 250px;
+    bottom: -2665px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name147 {
+    left: -130px;
+    width: 250px;
+    bottom: -2957px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name148 {
+    left: -126px;
+    width: 250px;
+    bottom: -3781px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name149 {
+    left: 438px;
+    width: 250px;
+    bottom: -2669px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name150 {
+    right: 123px;
+    width: 250px;
+    bottom: -3777px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name151 {
+    left: 146px;
+    width: 250px;
+    bottom: -3777px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name152 {
+    top: 257px;
+    right: 137px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name153 {
+    top: 237px;
+    right: -135px;
+    width: 250px;
+    height: 300px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name154 {
+    left: -114px;
+    width: 250px;
+    bottom: -5573px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name155 {
+    left: -130px;
+    width: 250px;
+    bottom: -1457px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name156 {
+    left: 170px;
+    width: 250px;
+    bottom: -5573px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name159 {
+    left: 162px;
+    width: 250px;
+    bottom: -2449px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name160 {
+    left: -114px;
+    width: 250px;
+    bottom: -2453px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name161 {
+    left: 422px;
+    width: 250px;
+    bottom: -3801px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name162 {
+    left: 146px;
+    width: 250px;
+    bottom: -3777px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name165 {
+    left: -118px;
+    width: 250px;
+    bottom: -1889px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name166 {
+    left: 158px;
+    width: 250px;
+    bottom: -1893px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name167 {
+    left: 158px;
+    width: 250px;
+    bottom: -1609px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name168 {
+    right: -133px;
+    width: 250px;
+    bottom: -1609px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name169 {
+    right: 127px;
+    width: 250px;
+    bottom: -1609px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name170 {
+    left: 426px;
+    width: 250px;
+    bottom: -1631px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name171 {
+    top: 293px;
+    left: 166px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name172 {
+    right: -74px;
+    width: 250px;
+    bottom: -8px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name173 {
+    top: -146px;
+    left: -81px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name174 {
+    left: -61px;
+    width: 250px;
+    bottom: -1636px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name175 {
+    left: -69px;
+    width: 250px;
+    bottom: -1980px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name176 {
+    left: 399px;
+    width: 250px;
+    bottom: -1984px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name177 {
+    right: -112px;
+    width: 250px;
+    bottom: -1968px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name178 {
+    left: 163px;
+    width: 250px;
+    bottom: -2317px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name179 {
+    left: -77px;
+    width: 250px;
+    bottom: -2316px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name180 {
+    left: 653px;
+    width: 250px;
+    bottom: -1998px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name181 {
+    left: 175px;
+    width: 250px;
+    bottom: -1978px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name182 {
+    left: 167px;
+    width: 250px;
+    bottom: -1634px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name183 {
+    left: 407px;
+    width: 250px;
+    bottom: -1632px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name184 {
+    left: 667px;
+    width: 250px;
+    bottom: -1628px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name185 {
+    left: -81px;
+    width: 250px;
+    bottom: -392px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name186 {
+    left: 190px;
+    width: 250px;
+    bottom: -406px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name187 {
+    top: -107px;
+    left: 473px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name188 {
+    top: 647px;
+    right: 115px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name189 {
+    right: -172px;
+    width: 250px;
+    bottom: -396px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name190 {
+    left: -69px;
+    width: 250px;
+    bottom: -680px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name191 {
+    left: 314px;
+    width: 250px;
+    bottom: -1152px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name192 {
+    left: 582px;
+    width: 250px;
+    bottom: -1156px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name193 {
+    left: 830px;
+    width: 250px;
+    bottom: -1160px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name194 {
+    right: 44px;
+    width: 250px;
+    bottom: -1164px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name195 {
+    left: 403px;
+    width: 250px;
+    bottom: -2313px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name196 {
+    left: 667px;
+    width: 250px;
+    bottom: -2313px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name198 {
+    left: -110px;
+    width: 250px;
+    bottom: -3437px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name199 {
+    left: -130px;
+    width: 250px;
+    bottom: -4465px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name200 {
+    left: 422px;
+    width: 250px;
+    bottom: -4473px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name201 {
+    left: 694px;
+    width: 250px;
+    bottom: -4481px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name202 {
+    right: -133px;
+    width: 250px;
+    bottom: -4501px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name204 {
+    left: 150px;
+    width: 250px;
+    bottom: -4805px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name205 {
+    left: -130px;
+    width: 250px;
+    bottom: -4805px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name206 {
+    left: 146px;
+    width: 250px;
+    bottom: -4465px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name211 {
+    left: 434px;
+    width: 250px;
+    bottom: -3433px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name212 {
+    left: 150px;
+    width: 250px;
+    bottom: -3437px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name213 {
+    right: 99px;
+    width: 250px;
+    bottom: -3441px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name219 {
+    left: 150px;
+    width: 250px;
+    bottom: -1457px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name221 {
+    right: 111px;
+    width: 250px;
+    bottom: -1449px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name222 {
+    left: 426px;
+    width: 250px;
+    bottom: -1457px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name223 {
+    top: 279px;
+    left: 162px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name224 {
+    right: -122px;
+    width: 250px;
+    bottom: 248px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name225 {
+    top: -146px;
+    left: -81px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name226 {
+    left: -73px;
+    width: 250px;
+    bottom: -1356px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name227 {
+    left: -81px;
+    width: 250px;
+    bottom: -1800px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name228 {
+    left: 439px;
+    width: 250px;
+    bottom: -1800px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name229 {
+    right: -128px;
+    width: 250px;
+    bottom: -1792px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name230 {
+    left: 167px;
+    width: 250px;
+    bottom: -2193px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name231 {
+    left: -89px;
+    width: 250px;
+    bottom: -2196px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name232 {
+    right: 128px;
+    width: 250px;
+    bottom: -1794px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name233 {
+    left: 167px;
+    width: 250px;
+    bottom: -1806px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name234 {
+    left: 199px;
+    width: 250px;
+    bottom: -1358px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name235 {
+    left: 431px;
+    width: 250px;
+    bottom: -1360px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name236 {
+    left: 683px;
+    width: 250px;
+    bottom: -1360px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name237 {
+    left: -81px;
+    width: 250px;
+    bottom: -392px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name239 {
+    top: -109px;
+    left: 455px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+}
+@media(max-width: 1200px) {
+  .gallery-card12-root-class-name {
+    top: 48px;
+    left: 48px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name2 {
+    top: 78px;
+    left: 359px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name3 {
+    left: 60px;
+    width: 250px;
+    bottom: -311px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name4 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name5 {
+    top: 111px;
+    right: -13px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name6 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name7 {
+    top: 78px;
+    left: 359px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name9 {
+    top: 48px;
+    left: 48px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name10 {
+    top: 111px;
+    right: -13px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name11 {
+    top: 78px;
+    left: 359px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name12 {
+    left: 60px;
+    width: 250px;
+    bottom: -311px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name13 {
+    top: 78px;
+    left: 359px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name14 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name15 {
+    left: 60px;
+    width: 250px;
+    bottom: -311px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name16 {
+    left: 60px;
+    width: 250px;
+    bottom: -311px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name18 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name19 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name20 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name21 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name22 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name23 {
+    left: 60px;
+    width: 250px;
+    bottom: -311px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name24 {
+    left: 60px;
+    width: 250px;
+    bottom: -311px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name25 {
+    left: 60px;
+    width: 250px;
+    bottom: -311px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name26 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name28 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name32 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name33 {
+    left: 60px;
+    width: 250px;
+    bottom: -311px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name34 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name40 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name45 {
+    top: 48px;
+    left: 48px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name46 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name47 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name48 {
+    top: 111px;
+    right: -13px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name49 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name50 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name51 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name52 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name53 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name54 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name55 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name56 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name57 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name58 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name59 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name60 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name61 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name62 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name63 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name64 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name65 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name66 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name67 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name68 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name69 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name70 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name71 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name72 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name73 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name74 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name75 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name76 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name77 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name78 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name79 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name80 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name81 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name82 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name83 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name84 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name85 {
+    top: 78px;
+    left: 359px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name86 {
+    left: 60px;
+    width: 250px;
+    bottom: -311px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name87 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name88 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name89 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name90 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name91 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name92 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name93 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name94 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name95 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name96 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name97 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name98 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name99 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name100 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name101 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name102 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name103 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name104 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name105 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name106 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name107 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name108 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name109 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name110 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name111 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name112 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name113 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name114 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name115 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name116 {
+    top: 78px;
+    left: 359px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name117 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name118 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name119 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name120 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name121 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name122 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name137 {
+    top: 48px;
+    left: 48px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name138 {
+    top: 111px;
+    right: -13px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name139 {
+    left: 60px;
+    width: 250px;
+    bottom: -311px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name140 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name141 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name142 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name143 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name144 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name145 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name146 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name147 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name148 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name149 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name150 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name151 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name152 {
+    top: 78px;
+    left: 359px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name153 {
+    left: 60px;
+    width: 250px;
+    bottom: -311px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name154 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name155 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name156 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name159 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name160 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name161 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name162 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name165 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name166 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name167 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name168 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name169 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name170 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name171 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name186 {
+    top: 48px;
+    left: 48px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name187 {
+    top: 111px;
+    right: -13px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name188 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name198 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name199 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name200 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name201 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name202 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name204 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name205 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name206 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name211 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name212 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name213 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name219 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name221 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name222 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name223 {
+    top: 77px;
+    left: 634px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+  .gallery-card12-root-class-name239 {
+    top: 111px;
+    right: -13px;
+    width: 250px;
+    height: 250px;
+    position: absolute;
+  }
+}
+@media(max-width: 767px) {
+  .gallery-card12-gallery-card {
+    flex-direction: column;
+  }
+}
+@media(max-width: 479px) {
+  .gallery-card12-image {
+    height: 10rem;
+  }
+}
